@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author sornp
+ * @author nickk
  */
 public class HeadQuater implements Source {
     private final ArrayList<MyObservers> list ;

@@ -8,7 +8,7 @@ package observer_lab;
 
 /**
  *
- * @author sornp
+ * @author nickk
  */
 public class Uae implements MyObservers {
     @Override

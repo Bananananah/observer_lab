@@ -9,7 +9,7 @@ import observer_lab.Uae;
 import java.util.*;
 /**
  *
- * @author sornp
+ * @author nickk
  */
 public class observer_lab {
 
